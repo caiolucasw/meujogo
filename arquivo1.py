@@ -7,7 +7,7 @@ clock = pygame.time.Clock()
 
 resolucao = width, height = 500,480
 pygame.init()
-bg = pygame.image.load('bg.jpg')
+bg = pygame.image.load('sprites/bg.jpg')
 tela = pygame.display.set_mode(resolucao)
 raio = 5
 
