@@ -1,2 +1,3 @@
-# meujogo
-Jogo pygame
+# Meu jogo
+
+ Jogo pygame
